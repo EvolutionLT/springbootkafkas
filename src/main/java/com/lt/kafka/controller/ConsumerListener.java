@@ -9,7 +9,6 @@ import org.springframework.stereotype.Component;
  * @projectName springbootkafka
  * @description: TODO
  * @date 2019-11-02 18:19
- * @ltd：思为
  */
 @Component
 public class ConsumerListener {

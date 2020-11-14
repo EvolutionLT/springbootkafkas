@@ -11,7 +11,6 @@ import org.springframework.web.bind.annotation.*;
  * @projectName springbootkafka
  * @description: TODO
  * @date 2019-11-02 18:11
- * @ltd：思为
  */
 @RestController
 public class KafkaController {
